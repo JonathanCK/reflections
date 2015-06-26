@@ -5,3 +5,7 @@ A .git directorty is been made so that the Git software can ceep track of the ch
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Saging area is good for choosing what you want to commit. It's more on local level.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use the staging area and compare it with the most resent commit to se if the changes affects several files.

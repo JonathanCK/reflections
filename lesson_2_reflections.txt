@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git directorty is been made so that the Git software can ceep track of the changes of the files in the repository.
+

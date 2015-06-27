@@ -16,4 +16,8 @@ When testing new features or fixing bugs. I can always go back to a more secure/
 
 How do the diagrams help you visualize the branch structure?
 
-It shows how branches and commits are related to each other and what fixes, features etc, that exist or don't exist in the branches. 
+It shows how branches and commits are related to each other and what fixes, features etc, that exist or don't exist in the branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is actualy a new merge branch that contains the addetive changes from each of the merged branches. The diagram representation is suposed to show where commits was mede and to which branch, thus trasing the origin of the features fro this new merged branch.  

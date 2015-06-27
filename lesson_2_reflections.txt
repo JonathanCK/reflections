@@ -20,4 +20,8 @@ It shows how branches and commits are related to each other and what fixes, feat
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-The result is actualy a new merge branch that contains the addetive changes from each of the merged branches. The diagram representation is suposed to show where commits was mede and to which branch, thus trasing the origin of the features fro this new merged branch.  
+The result is actualy a new merge branch that contains the addetive changes from each of the merged branches. The diagram representation is suposed to show where commits was mede and to which branch, thus trasing the origin of the features fro this new merged branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?  
+
+Small simpel chenges get included whitout any great attention and bigger ones gets it. The fokus of the programmer is placed on the most rellevant parts.  

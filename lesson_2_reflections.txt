@@ -9,3 +9,8 @@ Saging area is good for choosing what you want to commit. It's more on local lev
 How can you use the staging area to make sure you have one commit per logical change?
 
 I can use the staging area and compare it with the most resent commit to se if the changes affects several files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When testing new features or fixing bugs. I can always go back to a more secure/stable version and keep track of progress. Good complement to documentation.
+ 

@@ -9,3 +9,8 @@ Perhaps there are some changes that you don't want to be transferd to other comp
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Fork, repository clone made on GitHub used for working on other peoples code but not commiting to it directly. Clone to a local copy of repository on GitHub, to work localy.Branch alternative path on repository on local, for testing and new features etc.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To see and ceep track of chenges since the lst oull / fetch.
+

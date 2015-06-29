@@ -17,3 +17,7 @@ To see and ceep track of chenges since the lst oull / fetch.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Offline versions whould be the alternative, althow a bad one. I think it whould be easier if to use Git thus that's easier to track changes, where and why thay have been made. Git makes it only easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Thats a safty feature and also a way to test and see if the change is something you want to have later on but are not sure yet. To merge directly whit the master branch thats the soution to go if you are sure about the changes.
